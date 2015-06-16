@@ -36,7 +36,8 @@
                                    <div class='col-sm-4 col-xs-6'>
                                     <h3>文章標題</h3>
 -多加旁邊滑動的桿子在每個第三段落並放在區塊語法的上方<div class="row">
--
+-變更頁面字體的顏色
+-加入小圖示
 
 
 網址  file:///C:/Users/acer/Desktop/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/ann/Hellow%20student/index.html
