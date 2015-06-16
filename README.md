@@ -20,10 +20,23 @@
 -加圖片語法放在第一篇文章後面</div> 
          <img style="-webkit-user-select: none" src="http://www.salvationarmy.org.tw/sac/uploads/tadnews/STT_Taiwan.jpg">
          </div>
+-在標題上方貼上<div class="container-fluid">  在文章最後貼上</div>
+-在標題三的上方貼上<div class="row well well-lg">使自己的段落加上框框
+-網頁總共分為12塊，讓頁面區塊平均 <div class='col-sm-12'>      
+                                  <div class='col-sm-10'>     
+                                  <h1>大標題</h1>
+                                  <h2>文章標題</h2> 
+                                     
+                                  <div class="col-sm-4 col-xs-12">
+                                   <h3>文章標題</h3>
+                                   
+                                   <div class='col-sm-4 col-xs-6'>
+                                   <h3>文章標題</h3>
+                                   
+                                   <div class='col-sm-4 col-xs-6'>
+                                    <h3>文章標題</h3>
+-多加旁邊滑動的桿子在每個第三段落並放在區塊語法的上方<div class="row">
 -
-         
-
-
 
 
 網址  file:///C:/Users/acer/Desktop/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/ann/Hellow%20student/index.html
